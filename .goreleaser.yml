@@ -37,12 +37,12 @@ builds:
       # - freebsd
       - windows
       # - linux
-      # - darwin
+      - darwin
     goarch:
       - amd64
       # - "386"
       # - arm
-      # - arm64
+      - arm64
     ignore:
       - goos: openbsd
         goarch: arm64
