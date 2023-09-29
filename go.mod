@@ -1,6 +1,6 @@
 module github.com/abdelino17/packer-plugin-goenv
 
-go 1.21.0
+go 1.21
 
 require (
 	github.com/gopherfs/fs v0.0.0-20220904165359-8e84a606fa6d
